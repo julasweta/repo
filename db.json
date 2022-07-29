@@ -53,7 +53,7 @@
     "description": "",
     "thumbnail": "https://images.unian.net/photos/2022_07/thumb_files/370_250_1659106420-7509.jpg",
     "homepage": "https://www.unian.ua/economics/agro/zhniva-pid-chas-viyni-na-yakiy-vrozhay-ochikuyemo-ta-yak-zmozhemo-podilitis-nim-zi-svitom-novini-11921835.html",
-    "id": "7",
+    "id": 7,
     "breed": {}
   },
   {
@@ -61,7 +61,7 @@
     "description": "",
     "thumbnail": "https://images.unian.net/photos/2019_04/thumb_files/370_250_1555668386-4002.JPG",
     "homepage": "https://www.unian.ua/economics/finance/yakshcho-viyna-trivatime-v-2023-roci-rezervi-vpadut-nizhche-10-mlrd-alternativniy-scenariy-nbu-novini-ukrajina-11921802.html",
-    "id": "",
+    "id": 8,
     "breed": {}
   },
   {
@@ -69,7 +69,7 @@
     "description": "",
     "thumbnail": "https://images.unian.net/photos/2022_02/thumb_files/370_250_1644143196-6916.jpg",
     "homepage": "https://www.unian.ua/economics/finance/kurs-dolara-skoro-zminitsya-ekspert-zrobiv-obnadiyliviy-prognoz-novini-ukrajina-11921727.html",
-    "id": "8",
+    "id": 9,
     "breed": {}
   },
   {
@@ -77,7 +77,7 @@
     "description": "",
     "thumbnail": "https://images.unian.net/photos/2022_07/thumb_files/370_250_1659097989-2766.png",
     "homepage": "https://www.unian.ua/lite/stars/zirka-papika-stas-boklan-rozpoviv-shcho-okupanti-znishchili-yogo-kvartiru-v-mariupoli-y-vbili-koleg-11921607.html",
-    "id": "9",
+    "id": 10,
     "breed": {}
   },
   {
@@ -85,7 +85,7 @@
     "description": "",
     "thumbnail": "https://images.unian.net/photos/2022_07/thumb_files/370_250_1659094484-1802.png",
     "homepage": "https://www.unian.ua/lite/music/zaplakana-zlata-ognyevich-predstavila-novu-pisnyu-i-klip-pro-ryatuvalnikiv-dsns-video-11921487.html",
-    "id": "10",
+    "id": 11",
     "breed": {}
   },
   {
@@ -101,7 +101,7 @@
     "description": "",
     "thumbnail": "https://images.unian.net/photos/2022_07/thumb_files/370_250_1659105658-3592.jpg",
     "homepage": "https://sport.unian.ua/football/veliki-zmini-dnipro-1-oficiyno-ogolosiv-im-ya-novogo-trenera-i-pidpisav-shistoh-gravciv-novini-futbolu-11921826.html",
-    "id": "12",
+    "id": 12",
     "breed": {}
   },
   {
@@ -109,7 +109,7 @@
     "description": "",
     "thumbnail": "https://images.unian.net/photos/2022_07/thumb_files/370_250_1659102362-7695.png",
     "homepage": "https://sport.unian.ua/football/liverpul-manchester-siti-prognoz-i-de-divitisya-match-za-superkubok-angliji-novini-futbolu-11921739.html",
-    "id": "13",
+    "id": 13,
     "breed": {}
   },
   {
@@ -117,7 +117,7 @@
     "description": "",
     "thumbnail": "https://images.unian.net/photos/2019_03/thumb_files/370_250_1552484072-1572.jpg",
     "homepage": "https://sport.unian.ua/football/top-legioner-dinamo-prodovzhit-kar-yeru-v-titulovanomu-yevropeyskomu-klubi-zmi-novini-futbolu-11921529.html",
-    "id": "14",
+    "id": 14,
     "breed": {}
   }
 ]
