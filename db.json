@@ -34,7 +34,7 @@
       "id": 3,
       "imageUrl": "https://thumb.tildacdn.com/tild6635-6138-4065-a466-366337663464/-/resize/260x/-/format/webp/9.jpg",
       "name": "Харчо",
-      "types": [],
+      "types": [0],
       "sizes": [26, 30, 40],
       "price": 47,
       "category": "Гриль",
