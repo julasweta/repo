@@ -2,6 +2,7 @@
   "pizzas": [
     {
       "id": 0,
+      "count":0,
       "imageUrl": "https://thumb.tildacdn.com/tild6563-6434-4432-b164-376465306536/-/resize/260x/-/format/webp/3.jpg",
       "name": "Картопля по селянськи",
       "types": [0, 1],
@@ -12,6 +13,7 @@
     },
     {
       "id": 1,
+      "count":0,
       "imageUrl": "https://thumb.tildacdn.com/tild6261-3861-4663-a532-336466393734/-/resize/260x/-/format/webp/10.jpg",
       "name": "Оджахурі",
       "types": [0],
@@ -22,6 +24,7 @@
     },
     {
       "id": 2,
+      "count":0,
       "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/6652fec1-04df-49d8-8744-232f1032c44b.jpg",
       "name": "Курча барбекю Meat",
       "types": [0],
@@ -32,6 +35,7 @@
     },
     {
       "id": 3,
+      "count":0,
       "imageUrl": "https://thumb.tildacdn.com/tild6635-6138-4065-a466-366337663464/-/resize/260x/-/format/webp/9.jpg",
       "name": "Харчо",
       "types": [0],
@@ -42,6 +46,7 @@
     },
     {
       "id": 4,
+      "count":0,
       "imageUrl": "https://thumb.tildacdn.com/tild3861-3834-4863-b030-366430333938/-/resize/260x/-/format/webp/2.jpg",
       "name": "Кубдарі",
       "types": [0, 1],
@@ -52,6 +57,7 @@
     },
     {
       "id": 5,
+      "count":0,
       "imageUrl": "https://thumb.tildacdn.com/tild6330-3133-4766-b038-353234313833/-/resize/260x/-/format/webp/4.jpg",
       "name": "Люля Кебаб",
       "types": [0],
@@ -62,6 +68,7 @@
     },
     {
       "id": 6,
+      "count":0,
       "imageUrl": "https://thumb.tildacdn.com/tild3739-6638-4432-a638-393963383363/-/resize/260x/-/format/webp/8.jpg",
       "name": "Шоті",
       "types": [0, 1],
@@ -72,6 +79,7 @@
     },
     {
       "id": 7,
+      "count":0,
       "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/d48003cd-902c-420d-9f28-92d9dc5f73b4.jpg",
       "name": "Маргарита Chili",
       "types": [0, 1],
@@ -82,6 +90,7 @@
     },
     {
       "id": 8,
+      "count":0,
       "imageUrl": "https://thumb.tildacdn.com/tild3833-3336-4134-a536-333764393739/-/resize/260x/-/format/webp/55.jpg",
       "name": "Пхалі",
       "types": [0, 1],
@@ -92,6 +101,7 @@
     },
     {
       "id": 9,
+      "count":0,
       "imageUrl": "https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/30367198-f3bd-44ed-9314-6f717960da07.jpg",
       "name": "Овощи и грибы 🌱 Close",
       "types": [0, 1],
